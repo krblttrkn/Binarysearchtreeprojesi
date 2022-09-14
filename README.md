@@ -4,7 +4,8 @@
 
 * **[7,5,1,8,3,6,0,9,4,2]** dizisinin Binary-Search-Tree aşamalarını yazınız.
 ## **[7,5,1,8,3,6,0,9,4,2]** dizisinin Binary Search Tree aşamaları:
-- Root olarak 6'yı alalım.<br>
+'''
+- Root olarak 6'yı alalım.
   Root=6
 - 6'dan küçük olan sayıları 6'nın soluna, 6'dan büyük sayıları 6'nın sağına ekleyeceğim.
 - Dizideki ilk sayımız 7'dir. 7 sayısı 6'dan büyük olduğu için 6'nın sağına ekliyorum.
@@ -22,3 +23,4 @@
    | 
   1 
 *
+'''
