@@ -73,7 +73,7 @@
                              |   |
                             2     4
 ```
-**Dipnot** : Biraz fazla açıklayıcı yaptım, amacım kafalarda soru işareti bırakmamak ve bildiklerimin hepsini klavye ile ekranlarınıza yansıtmaktı. Yazılarımla o güzel gözlerinizi yorduğum için kusura bakmayın ve de okuduğunuz için teşekkür ederim:)
+* **Dipnot** : Biraz fazla açıklayıcı yaptım, amacım kafalarda soru işareti bırakmamak ve bildiklerimin hepsini klavye ile ekranlarınıza yansıtmaktı. Yazılarımla o güzel gözlerinizi yorduğum için kusura bakmayın ve de okuduğunuz için teşekkür ederim:)
 -------------------------------------------------------------------------------------
-# Patika Profilim:
+## Patika Profilim:
 **[patika linki](https://app.patika.dev/krblttrkn)**
