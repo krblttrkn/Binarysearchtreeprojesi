@@ -52,7 +52,7 @@
                        1             8 
                      |   |             |
                    0       3             9
-*Dizideki sonraki sayımız 4'tür. 4 sayısı 6 dan küçük olduğu için 6'nın soluna ekliyorum. 6'nın solunda 5 var ve 4 sayısı 5'ten küçük olduğu için 4'ü 5'in soluna yazmalıyız. 5'in solunda 1 var ve 1 sayısı 4'ten büyük olduğu için 4'ü 1'in sağına ekliyorum. 1'in sağında 3 var ve 4 sayısı 3'ten büyük olduğu için 4 3'ün sağına yazılır.                          
+*Dizideki sonraki sayımız 4'tür. 4 sayısı 6 dan küçük olduğu için 6'nın soluna ekliyorum. 6'nın solunda 5 var ve 4 sayısı 5'ten küçük olduğu için 4'ü 5'in soluna yazmalıyız. 5'in solunda 1 var ve 4 sayısı 1'den büyük olduğu için 4'ü 1'in sağına ekliyorum. 1'in sağında 3 var ve 4 sayısı 3'ten büyük olduğu için 4 3'ün sağına yazılır.                          
                                 6
                               |   |
                              5      7
